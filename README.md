@@ -62,7 +62,7 @@ And below is an example of what the data in a log file, 2018-11-12-events.json, 
 5. **time** - timestamps of records in songplays broken down into specific units
    - start_time, hour, day, week, month, year, weekday
 
-![schema](/images/songs_schema.png)
+![schema](/images/sp_erd.png)
 
 ## Project Steps
 1. Create EMR Cluster that contains Spark and Hive on Hadoop.
